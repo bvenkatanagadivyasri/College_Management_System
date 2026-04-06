@@ -1,0 +1,5 @@
+9758,kali,2,cse,34,9.0,Teacher B
+8861,riya,2,cse,89,7.0,Teacher C
+5789,kritika,2,cse,90,9.0,Teacher A
+6742,karthik,2,cse,67,6.0,Teacher C
+4857,suvin,3,cse,65,5.0,Teacher D
